@@ -1,0 +1,219 @@
+{
+  "channels": [
+    {
+      "name": "1",
+      "messages": [
+        {
+          "date": 1712252044,
+          "senderName": "lixovian",
+          "hasAttachment": true
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "messages": [
+        {
+          "date": 1712252033,
+          "senderName": "lixovian",
+          "hasAttachment": true
+        },
+        {
+          "date": 1712252024,
+          "senderName": "lixovian",
+          "hasAttachment": false
+        },
+        {
+          "date": 1712250682,
+          "senderName": "lixovian",
+          "hasAttachment": true
+        },
+        {
+          "date": 1712250678,
+          "senderName": "lixovian",
+          "hasAttachment": true
+        },
+        {
+          "date": 1712250648,
+          "senderName": "lixovian",
+          "hasAttachment": true
+        },
+        {
+          "date": 1712250621,
+          "senderName": "lixovian",
+          "hasAttachment": false
+        },
+        {
+          "date": 1712250615,
+          "senderName": "lixovian",
+          "hasAttachment": false
+        }
+      ]
+    },
+    {
+      "name": "midjourney",
+      "messages": [
+        {
+          "date": 1681738081,
+          "senderName": "lixovian",
+          "hasAttachment": false
+        },
+        {
+          "date": 1675954094,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675953990,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675953886,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675953852,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675953815,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675953719,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675953682,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675873765,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675790274,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675790158,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675790112,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675790060,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675790027,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675786403,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675786327,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675786239,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675786151,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675786097,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675785949,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675785854,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675785765,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675785726,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675785611,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675785464,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675785343,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675785052,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675784884,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        },
+        {
+          "date": 1675784813,
+          "senderName": "Midjourney Bot",
+          "hasAttachment": true
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "messages": [
+        {
+          "date": 1712253315,
+          "senderName": "lixovian",
+          "hasAttachment": false
+        },
+        {
+          "date": 1712253313,
+          "senderName": "lixovian",
+          "hasAttachment": false
+        }
+      ]
+    }
+  ]
+}
